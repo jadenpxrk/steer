@@ -1,0 +1,7 @@
+Bundled terminal fonts (Regular only):
+
+- JetBrains Mono — SIL Open Font License 1.1 — https://github.com/JetBrains/JetBrainsMono
+- Fira Code — SIL Open Font License 1.1 — https://github.com/tonsky/FiraCode
+- IBM Plex Mono — SIL Open Font License 1.1 — https://github.com/IBM/plex
+- Source Code Pro — SIL Open Font License 1.1 — https://github.com/adobe-fonts/source-code-pro
+- Hack — MIT License — https://github.com/source-foundry/Hack

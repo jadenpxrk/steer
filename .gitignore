@@ -1,0 +1,7 @@
+.DS_Store
+.agents/
+.serena/
+xcuserdata/
+build/
+DerivedData/
+node_modules/
